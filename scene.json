@@ -5,8 +5,8 @@
         "vt": 4,
         "deslocamento": [
             -0.010000000000000031,
-            -0.5100000000000002,
-            0.02
+            -0.51,
+            0.0
         ],
         "escala": [
             4.999999999999937,
@@ -30,7 +30,7 @@
         "polygon": false,
         "scene_id": 0,
         "draw_mode": 0,
-        "group_id": 0
+        "group_id": -1
     },
     {
         "name": "mar",
@@ -38,8 +38,8 @@
         "vt": 4,
         "deslocamento": [
             0.46000000000000024,
-            -0.5000000000000003,
-            -0.02
+            -0.52,
+            -0.01
         ],
         "escala": [
             2.8199999999999834,
@@ -63,20 +63,20 @@
         "polygon": false,
         "scene_id": 1,
         "draw_mode": 0,
-        "group_id": 1
+        "group_id": -1
     },
     {
         "name": "ceu",
         "vi": 0,
         "vt": 4,
         "deslocamento": [
-            0.02,
-            0.49000000000000027,
-            -0.04
+            0.0,
+            0.48,
+            0.5
         ],
         "escala": [
             5.009999999999937,
-            2.549999999999989,
+            2.6,
             2.549999999999989
         ],
         "rotacao": [
@@ -96,7 +96,7 @@
         "polygon": false,
         "scene_id": 2,
         "draw_mode": 0,
-        "group_id": 2
+        "group_id": -1
     },
     {
         "name": "nuvem_01",
@@ -105,7 +105,7 @@
         "deslocamento": [
             -0.6300000000000003,
             0.4300000000000002,
-            0.0
+            0.4
         ],
         "escala": [
             0.27999999999999936,
@@ -129,7 +129,7 @@
         "polygon": false,
         "scene_id": 3,
         "draw_mode": 1,
-        "group_id": 3
+        "group_id": 1
     },
     {
         "name": "nuvem_02",
@@ -138,7 +138,7 @@
         "deslocamento": [
             -0.4100000000000002,
             0.4300000000000002,
-            0.0
+            0.4
         ],
         "escala": [
             0.3099999999999994,
@@ -162,7 +162,7 @@
         "polygon": false,
         "scene_id": 4,
         "draw_mode": 1,
-        "group_id": 3
+        "group_id": 1
     },
     {
         "name": "nuvem_03",
@@ -171,7 +171,7 @@
         "deslocamento": [
             -0.47000000000000025,
             0.5900000000000003,
-            0.0
+            0.4
         ],
         "escala": [
             0.3199999999999994,
@@ -195,7 +195,7 @@
         "polygon": false,
         "scene_id": 5,
         "draw_mode": 1,
-        "group_id": 3
+        "group_id": 1
     },
     {
         "name": "nuvem_04",
@@ -204,7 +204,7 @@
         "deslocamento": [
             -0.24000000000000007,
             0.6100000000000003,
-            0.0
+            0.4
         ],
         "escala": [
             0.3099999999999994,
@@ -228,7 +228,7 @@
         "polygon": false,
         "scene_id": 6,
         "draw_mode": 1,
-        "group_id": 3
+        "group_id": 1
     },
     {
         "name": "nuvem_05",
@@ -237,7 +237,7 @@
         "deslocamento": [
             -0.15,
             0.4300000000000002,
-            0.0
+            0.4
         ],
         "escala": [
             0.3199999999999994,
@@ -261,7 +261,7 @@
         "polygon": false,
         "scene_id": 7,
         "draw_mode": 1,
-        "group_id": 3
+        "group_id": 1
     },
     {
         "name": "peixe_01",
@@ -294,7 +294,7 @@
         "polygon": false,
         "scene_id": 8,
         "draw_mode": 1,
-        "group_id": 4
+        "group_id": 2
     },
     {
         "name": "peixe_02",
@@ -327,7 +327,7 @@
         "polygon": false,
         "scene_id": 9,
         "draw_mode": 0,
-        "group_id": 4
+        "group_id": 2
     },
     {
         "name": "guarda_sol_01",
@@ -360,7 +360,7 @@
         "polygon": false,
         "scene_id": 10,
         "draw_mode": 0,
-        "group_id": 5
+        "group_id": -1
     },
     {
         "name": "guarda_sol_02",
@@ -393,7 +393,7 @@
         "polygon": false,
         "scene_id": 11,
         "draw_mode": 0,
-        "group_id": 5
+        "group_id": -1
     },
     {
         "name": "sol_circulo",
@@ -402,7 +402,7 @@
         "deslocamento": [
             0.5500000000000003,
             0.5700000000000003,
-            0.0
+            0.45
         ],
         "escala": [
             0.26999999999999935,
@@ -426,7 +426,7 @@
         "polygon": false,
         "scene_id": 12,
         "draw_mode": 1,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo1",
@@ -435,7 +435,7 @@
         "deslocamento": [
             0.20000000000000004,
             0.32000000000000006,
-            0.0
+            0.45
         ],
         "escala": [
             0.2999999999999994,
@@ -459,7 +459,7 @@
         "polygon": false,
         "scene_id": 13,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo2",
@@ -468,7 +468,7 @@
         "deslocamento": [
             0.23000000000000004,
             0.41000000000000014,
-            0.0
+            0.45
         ],
         "escala": [
             0.25999999999999934,
@@ -492,7 +492,7 @@
         "polygon": false,
         "scene_id": 14,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo3",
@@ -501,7 +501,7 @@
         "deslocamento": [
             0.25000000000000006,
             0.24000000000000005,
-            0.0
+            0.45
         ],
         "escala": [
             0.3199999999999994,
@@ -525,7 +525,7 @@
         "polygon": false,
         "scene_id": 15,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo4",
@@ -534,7 +534,7 @@
         "deslocamento": [
             0.35000000000000014,
             0.25000000000000006,
-            0.0
+            0.45
         ],
         "escala": [
             0.3399999999999994,
@@ -558,7 +558,7 @@
         "polygon": false,
         "scene_id": 16,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo5",
@@ -567,7 +567,7 @@
         "deslocamento": [
             0.40000000000000013,
             0.3300000000000001,
-            0.0
+            0.45
         ],
         "escala": [
             0.3199999999999994,
@@ -591,7 +591,7 @@
         "polygon": false,
         "scene_id": 17,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     },
     {
         "name": "sol_triangulo6",
@@ -600,7 +600,7 @@
         "deslocamento": [
             0.3300000000000001,
             0.38000000000000017,
-            0.0
+            0.45
         ],
         "escala": [
             0.38999999999999946,
@@ -624,6 +624,6 @@
         "polygon": false,
         "scene_id": 18,
         "draw_mode": 0,
-        "group_id": -1
+        "group_id": 0
     }
 ]
