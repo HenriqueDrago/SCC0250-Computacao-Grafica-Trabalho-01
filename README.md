@@ -3,6 +3,7 @@ Trabalho desenvolvido para a disciplina SCC0250 (Computação Gráfica), utiliza
 
 ## Alunos
 Henrique Drago, NUSP: 14675441
+
 Henrique Yukio Sekido, NUSP: 14614564
 
 ## Projeto do grupo
