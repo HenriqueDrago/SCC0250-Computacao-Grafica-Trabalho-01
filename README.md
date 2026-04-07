@@ -8,7 +8,7 @@ Henrique Yukio Sekido, NUSP: 14614564
 
 ## Projeto do grupo
 **Cena**:
-O projeto desenvolvido pelo grupo foi um cenário de praia. Nela, temos 8 objetos: areia, cadeira-de-sol, guarda-sol, peixe, mar, céu, nuvem e um sol. Como objetos 3D obrigatórios, fizemos a cadeira-de-sol e o guarda-sol.
+O projeto desenvolvido pelo grupo foi um cenário de praia. Nela, temos 8 objetos: areia, cadeira-de-sol, guarda-sol, peixe, mar, céu, nuvem e um sol. Sendo a cadeira-de-sol e o guarda-sol os dois objetos 3D obrigatórios.
 
 **Controles**:
 É possível controlar 3 objetos da nossa cena: Peixe, Nuvem e Sol.
